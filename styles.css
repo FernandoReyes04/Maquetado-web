@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.page-title {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+.title-logo {
+    width: 90px; 
+    height: auto;
+}
+
+h1 {
+    font-size:3rem; 
+    margin: 0; 
+    color: #007bff;
+}
+
+#form-steps {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    background: #fff;
+}
